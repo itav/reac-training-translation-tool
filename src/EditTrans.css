@@ -1,0 +1,9 @@
+.editTransForm > input, textarea {
+    display: block;
+}
+.buttons > button {
+    display: inline;
+}
+.disabled {
+    background-color: #cfcfcf;
+}

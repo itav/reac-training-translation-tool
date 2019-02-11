@@ -1,0 +1,13 @@
+
+table {
+    width: 98%;
+}
+
+tr:nth-child(even) {
+    background-color: #e2e2e2
+}
+
+tr:hover {
+    background-color: #ffff99;
+}
+
